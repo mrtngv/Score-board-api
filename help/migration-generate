@@ -1,0 +1,6 @@
+ docker-compose up -d --build
+ docker ps
+ docker exec -it <containerID> /bin/bash
+npm run migration:generate -- src/database/migrations/CreatePlaysTable
+npm run migration:run
+cat <generated> and copy to database>migrations

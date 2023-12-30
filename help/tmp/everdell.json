@@ -1,0 +1,34 @@
+{
+  "milestones": [
+    {
+      "attribute": "Card points",
+      "fixed": true,
+      "score": 0,
+      "description": "Points from cards"
+    },
+    {
+      "attribute": "Point tokens",
+      "fixed": true,
+      "score": 0,
+      "description": "Point for each token you have collected"
+    },
+    {
+      "attribute": "Prosperity card bonus points",
+      "fixed": true,
+      "score": 0,
+      "description": "Points from prosperity cards (purple cards)"
+    },
+    {
+      "attribute": "Journey points",
+      "fixed": true,
+      "score": 0,
+      "description": "Points from Journey (Only open in Autumn)"
+    },
+    {
+      "attribute": "Events",
+      "fixed": true,
+      "score": 0,
+      "description": "Point from forest or special events"
+    }
+  ]
+}
